@@ -4,7 +4,7 @@
 - run the server by ***python3 credentials.py***
 - in another terminal run **python3 tests.py***
 
-## Simple server for mp3-files storing
+## Simple server for mp3-files storing on Flask
 
 - to run server in development mode:<br>
   ***python3 first_steps.py***<br>
