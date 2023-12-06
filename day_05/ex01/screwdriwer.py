@@ -1,5 +1,4 @@
 import argparse
-import os
 import requests
 
 
@@ -20,7 +19,7 @@ def PostFiles(files: list)->None:
 def GetData() -> list:
   response = requests.get(URL_GET).json()
   return response
-  
+
 def main():
   parser = argparse.ArgumentParser()
   parser.add_argument('upload', nargs='*', default=False, help='upload a file')
