@@ -1,0 +1,131 @@
+[
+    {
+      "question": "You're walking in the park and you see a stray dog. What do you do?",
+      "answers": [
+        {
+          "answer": "Approach cautiously and try to help",
+          "value": 3
+        },
+        {
+          "answer": "Avoid the dog and continue walking",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "question": "You're in a crowded elevator and someone accidentally steps on your foot. How do you react?",
+      "answers": [
+        {
+          "answer": "Politely accept their apology",
+          "value": 3
+        },
+        {
+          "answer": "Express frustration and make a scene",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "question": "You're having a conversation with a friend and they express an opinion you strongly disagree with. What do you do?",
+      "answers": [
+        {
+          "answer": "Respectfully discuss your differing views",
+          "value": 3
+        },
+        {
+          "answer": "Shut down the conversation and avoid further discussion",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "question": "You come across a homeless person asking for spare change on the street. How do you respond?",
+      "answers": [
+        {
+          "answer": "Offer some spare change or help in any way you can",
+          "value": 3
+        },
+        {
+          "answer": "Ignore and walk past them",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "question": "You notice a coworker struggling with a task. What is your instinctive response?",
+      "answers": [
+        {
+          "answer": "Offer assistance and support",
+          "value": 3
+        },
+        {
+          "answer": "Ignore and focus on your own work",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "question": "You accidentally receive extra change from a cashier. What do you do?",
+      "answers": [
+        {
+          "answer": "Return the extra change and inform the cashier",
+          "value": 3
+        },
+        {
+          "answer": "Keep the extra change without saying anything",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "question": "You witness a person being unfairly treated by someone in a position of power. How do you respond?",
+      "answers": [
+        {
+          "answer": "Stand up for the person and address the situation",
+          "value": 3
+        },
+        {
+          "answer": "Avoid getting involved and continue with your business",
+          "value": 1
+        }
+      ]
+    },
+    {
+      "question": "You discover a mistake in a document that could potentially harm your organization. What is your immediate reaction?", 
+      "answers": [
+        { 
+            "answer": "Inform your supervisor and suggest a solution",
+            "value": 3 
+        },
+        { 
+            "answer": "Ignore the mistake and hope nobody notices",
+            "value": 1 
+        } 
+        ]
+    },
+    {
+        "question": "You're in a group project and a team member is not contributing their fair share of work. How do you handle the situation?",
+        "answers": [
+            { 
+                "answer": "Communicate with the team member and find a solution", 
+                "value": 3 },
+            { 
+                "answer": "Complete their portion of the work yourself without discussing it", 
+                "value": 1 
+            } 
+            ]
+    },
+    {
+         "question": "You receive constructive criticism on a project you've been working on. How do you respond?", 
+         "answers": [
+            { 
+                "answer": "Accept the criticism openly and use it to improve your work", 
+                "value": 3 
+            },
+            { 
+                "answer": "Dismiss the criticism and believe in your original approach", 
+                "value": 1 
+            } 
+            ]           
+    } 
+]
